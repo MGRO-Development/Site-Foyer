@@ -1,0 +1,6 @@
+User-agent: * 
+Disallow: /Fichiers_HTML/
+Disallow: /JavaScript/
+Disallow: /Media/
+
+ 
